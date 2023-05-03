@@ -1,0 +1,126 @@
+track	Acc_Signal_AOAH+_Immune_cells
+bigDataUrl	AOAH+_Immune_cells_coverage.bigWig
+shortLabel	Chromatin accessibility - AOAH+_Immune_cells
+longLabel	Coverage per region - AOAH+_Immune_cells
+type	bigWig
+
+track	Acc_Signal_APOA1_FABP2+_mature_Enterocytes
+bigDataUrl	APOA1_FABP2+_mature_Enterocytes_coverage.bigWig
+shortLabel	Chromatin accessibility - APOA1_FABP2+_mature_Enterocytes
+longLabel	Coverage per region - APOA1_FABP2+_mature_Enterocytes
+type	bigWig
+
+track	Acc_Signal_BEST4+_cells
+bigDataUrl	BEST4+_cells_coverage.bigWig
+shortLabel	Chromatin accessibility - BEST4+_cells
+longLabel	Coverage per region - BEST4+_cells
+type	bigWig
+
+track	Acc_Signal_CALCRL+_Venous_EC
+bigDataUrl	CALCRL+_Venous_EC_coverage.bigWig
+shortLabel	Chromatin accessibility - CALCRL+_Venous_EC
+longLabel	Coverage per region - CALCRL+_Venous_EC
+type	bigWig
+
+track	Acc_Signal_CDH19+_Enteric_neurons
+bigDataUrl	CDH19+_Enteric_neurons_coverage.bigWig
+shortLabel	Chromatin accessibility - CDH19+_Enteric_neurons
+longLabel	Coverage per region - CDH19+_Enteric_neurons
+type	bigWig
+
+track	Acc_Signal_CHGA_RIMBP2+_Enteroendocrine_cells
+bigDataUrl	CHGA_RIMBP2+_Enteroendocrine_cells_coverage.bigWig
+shortLabel	Chromatin accessibility - CHGA_RIMBP2+_Enteroendocrine_cells
+longLabel	Coverage per region - CHGA_RIMBP2+_Enteroendocrine_cells
+type	bigWig
+
+track	Acc_Signal_CNGB1+_Enteroendocrine_cells
+bigDataUrl	CNGB1+_Enteroendocrine_cells_coverage.bigWig
+shortLabel	Chromatin accessibility - CNGB1+_Enteroendocrine_cells
+longLabel	Coverage per region - CNGB1+_Enteroendocrine_cells
+type	bigWig
+
+track	Acc_Signal_DCN+_Mesoderm
+bigDataUrl	DCN+_Mesoderm_coverage.bigWig
+shortLabel	Chromatin accessibility - DCN+_Mesoderm
+longLabel	Coverage per region - DCN+_Mesoderm
+type	bigWig
+
+track	Acc_Signal_DIAPH3_TOP2A+_Cycling_Mesoderm
+bigDataUrl	DIAPH3_TOP2A+_Cycling_Mesoderm_coverage.bigWig
+shortLabel	Chromatin accessibility - DIAPH3_TOP2A+_Cycling_Mesoderm
+longLabel	Coverage per region - DIAPH3_TOP2A+_Cycling_Mesoderm
+type	bigWig
+
+track	Acc_Signal_GDA+_'Enterocytes'
+bigDataUrl	GDA+_'Enterocytes'_coverage.bigWig
+shortLabel	Chromatin accessibility - GDA+_'Enterocytes'
+longLabel	Coverage per region - GDA+_'Enterocytes'
+type	bigWig
+
+track	Acc_Signal_HPSE2+_Mesoderm
+bigDataUrl	HPSE2+_Mesoderm_coverage.bigWig
+shortLabel	Chromatin accessibility - HPSE2+_Mesoderm
+longLabel	Coverage per region - HPSE2+_Mesoderm
+type	bigWig
+
+track	Acc_Signal_ISL1+_mature_Enteroendocrine_cells
+bigDataUrl	ISL1+_mature_Enteroendocrine_cells_coverage.bigWig
+shortLabel	Chromatin accessibility - ISL1+_mature_Enteroendocrine_cells
+longLabel	Coverage per region - ISL1+_mature_Enteroendocrine_cells
+type	bigWig
+
+track	Acc_Signal_LGR5+_Stem_cells
+bigDataUrl	LGR5+_Stem_cells_coverage.bigWig
+shortLabel	Chromatin accessibility - LGR5+_Stem_cells
+longLabel	Coverage per region - LGR5+_Stem_cells
+type	bigWig
+
+track	Acc_Signal_MUC2_FCGBP+_Goblet_cells
+bigDataUrl	MUC2_FCGBP+_Goblet_cells_coverage.bigWig
+shortLabel	Chromatin accessibility - MUC2_FCGBP+_Goblet_cells
+longLabel	Coverage per region - MUC2_FCGBP+_Goblet_cells
+type	bigWig
+
+track	Acc_Signal_PDGFRA+_Mesoderm
+bigDataUrl	PDGFRA+_Mesoderm_coverage.bigWig
+shortLabel	Chromatin accessibility - PDGFRA+_Mesoderm
+longLabel	Coverage per region - PDGFRA+_Mesoderm
+type	bigWig
+
+track	Acc_Signal_PODXL+_Arterial_EC
+bigDataUrl	PODXL+_Arterial_EC_coverage.bigWig
+shortLabel	Chromatin accessibility - PODXL+_Arterial_EC
+longLabel	Coverage per region - PODXL+_Arterial_EC
+type	bigWig
+
+track	Acc_Signal_PRKG1_ADRA1A+_Pericytes
+bigDataUrl	PRKG1_ADRA1A+_Pericytes_coverage.bigWig
+shortLabel	Chromatin accessibility - PRKG1_ADRA1A+_Pericytes
+longLabel	Coverage per region - PRKG1_ADRA1A+_Pericytes
+type	bigWig
+
+track	Acc_Signal_RELN+_Lymphatic_EC
+bigDataUrl	RELN+_Lymphatic_EC_coverage.bigWig
+shortLabel	Chromatin accessibility - RELN+_Lymphatic_EC
+longLabel	Coverage per region - RELN+_Lymphatic_EC
+type	bigWig
+
+track	Acc_Signal_SGCD+_Mesoderm
+bigDataUrl	SGCD+_Mesoderm_coverage.bigWig
+shortLabel	Chromatin accessibility - SGCD+_Mesoderm
+longLabel	Coverage per region - SGCD+_Mesoderm
+type	bigWig
+
+track	Acc_Signal_SI+_precursor_Enterocytes
+bigDataUrl	SI+_precursor_Enterocytes_coverage.bigWig
+shortLabel	Chromatin accessibility - SI+_precursor_Enterocytes
+longLabel	Coverage per region - SI+_precursor_Enterocytes
+type	bigWig
+
+track	Acc_Signal_SKAP1+_Immune_cells
+bigDataUrl	SKAP1+_Immune_cells_coverage.bigWig
+shortLabel	Chromatin accessibility - SKAP1+_Immune_cells
+longLabel	Coverage per region - SKAP1+_Immune_cells
+type	bigWig
+
