@@ -3,9 +3,7 @@ shortLabel	Chromatin accessibility
 longLabel	Coverage per region
 type	bigWig
 autoScale	on
-aggregate	transparentOverlay
 visibility	full
-maxHeightPixels	100:50:11
 priority	1.0
 
 parent	composite
