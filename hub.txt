@@ -3,4 +3,3 @@ shortLabel	UCSC Hub Short Label
 longLabel	UCSC Hub Long Label
 genomesFile	genomes.txt
 email	lukas.adam@roche.com
-descriptionUrl	description.html
